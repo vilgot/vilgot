@@ -4,7 +4,7 @@
 
   <br/>
     <a href="https://github.com/vilgot"><img alt="Vilgot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vilgot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <img src="https://chesscom-profile-svg.vercel.app/stats?username=vilgott&theme=default&borderRadius=10" alt="ChessStats"/>
+    <img src="https://chesscom-profile-svg.vercel.app/stats?username=vilgott&theme=dark&borderRadius=10" alt="ChessStats"/>
   <!--<a href="https://github.com/vilgot"><img alt="Vilgot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilgot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
